@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Lenguajes de Programacion</title>
-        <link>https://www.paraninfo.es/rss</link>
-        <description>canal sobre programación</description>
+        <title>Futbol</title>
+        <link></link>
+        <description>canal sobre futbol</description>
         <item>
-            <title>Python</title>
-            <link>https//www.paraninfo.es/rss/python.html</link>
-            <description>El lenguaje Python</description>
-            <author>Fernando Paniagua</author>
+            <title>Real Madrid</title>
+            <link>file:///C:/Users/DAW_M/Desktop/html2/marca.html</link>
+            <description>Mbappé va lanzado a mejorar la primera temporada de Cristiano Ronaldo</description>
+            <author>Ana Esteban</author>
         </item>
         <item>
-            <title>JAva</title>
-            <link>https//www.paraninfo.es/rss/java.html</link>
-            <description>El lenguaje Java</description>
-            <author>Fernando Paniagua</author>
+            <title>Fichajes</title>
+            <link>file:///C:/Users/DAW_M/Desktop/html2/marca.html</link>
+            <description>Mercado de fichajes hoy en directo | Altas, bajas y última hora de Real Madrid, Barcelona...</description>
+            <author>Ana Esteban</author>
         </item>
         <item>
-            <title>PHP</title>
-            <link>https//www.paraninfo.es/rss/php.html</link>
-            <description>El lenguaje PHP</description>
-            <author>Fernando Paniagua</author>
+            <title>Atlético</title>
+            <link>file:///C:/Users/DAW_M/Desktop/html2/marca.html</link>
+            <description>El Atlético se lanza a por un 5</description>
+            <author>Ana Esteban</author>
         </item>
     </channel>
 </rss>
-
