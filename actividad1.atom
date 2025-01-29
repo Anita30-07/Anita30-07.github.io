@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <tittle>Futbol</tittle>
+    <link href="https:/www.marca.com/"/>
+    <updated>2025-01-29</updated>
+    <author>
+        <name>Ana Esteban</name>
+    </author> 
+    <id>https:/www.marca.com/feed/</id>
+    <entry>   
+        <tittle>Real Madrid</tittle>
+
+    <link href="file:///C:/Users/DAW_M/Desktop/html2/marca.html"/>
+    <id>file:///C:/Users/DAW_M/Desktop/html2/marca.html</id>
+    <updated>2025-01-29</updated>
+    <summary>Mbappé va lanzado a mejorar la primera temporada de Cristiano Ronaldo</summary>
+    </entry>
+    <entry>
+        <tittle>Fichajes</tittle>
+        <link href="file:///C:/Users/DAW_M/Desktop/html2/marca.html"/>
+        <id>file:///C:/Users/DAW_M/Desktop/html2/marca.html</id>
+        <updated>2025-01-29</updated>
+        <summary>Mercado de fichajes hoy en directo | Altas, bajas y última hora de Real Madrid, Barcelona...</summary>
+    </entry>
+    <tittle>Atlético</tittle>
+
+    <link href="file:///C:/Users/DAW_M/Desktop/html2/marca.html"/>
+    <id>file:///C:/Users/DAW_M/Desktop/html2/marca.html</id>
+    <updated>2025-01-29</updated>
+    <summary>El Atlético se lanza a por un 5</summary>
+    </entry>
+    </feed>
